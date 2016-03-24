@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2.1.5: March 21, 2016
+--------------------
+
+- Fix: SpeechKit.h is now modular
+
 2.1.4: March 8, 2016
 --------------------
 
