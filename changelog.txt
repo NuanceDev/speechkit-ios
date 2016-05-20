@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2.1.6: May 20, 2016
+--------------------
+
+- Fix: Stop/pause are functional 
+
 2.1.5: March 21, 2016
 --------------------
 
