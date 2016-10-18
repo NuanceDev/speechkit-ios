@@ -1,6 +1,17 @@
 Changelog
 =========
 
+2.2.1: September 30, 2016
+-------------------------
+
+- Enhancement: Ability to pass subscriber_id with transaction (select customers only)
+- Fix: Issue where too many consecutive transactions caused the app to freeze
+
+2.2.0: September 21, 2016
+-------------------------
+
+- Enhancement: Progressive ASR results (for managed customers only)
+
 2.1.7: July 14, 2016
 --------------------
 
